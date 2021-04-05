@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustinKankula
 - 👀 I’m interested in game development and software development
-- 🌱 I’m currently learning C++ and getting etter at algorithms
+- 🌱 I’m currently learning C++ and getting better at algorithms
 - 💞️ I’m looking to collaborate on projects that I can learn from and push my skills
 - 📫 How to reach me kankulajustin@gmail.com
 
